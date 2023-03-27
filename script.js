@@ -4,3 +4,4 @@ fetch(
 ).then(function (response) {
   console.log("response");
 });
+console.log("q");
